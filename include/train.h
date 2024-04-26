@@ -10,7 +10,6 @@ class Train {
     };
     int countOp;
     Cage* first;
-    
  public:
     Train();
     void addCage(bool light);
